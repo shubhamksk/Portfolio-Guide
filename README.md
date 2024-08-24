@@ -1,5 +1,5 @@
 # 🗺 Shubham's Portfolio
-Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
+Welcome to my data portfolio! Here, a guide and summary to my projects and case studies.
 
 ## 📚 Table of Contents
 - [SQL](#sql)
@@ -7,4 +7,4 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 - [Tableau](#tableau)
 - [PowerBI](#PowerBI)
 
-  A guide and summary to my projects and case studies. 
+ 
